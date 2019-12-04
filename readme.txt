@@ -4,4 +4,4 @@ Hello World.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 b
-Create a new branch is dev.
+Creating a new branch is quick & simple.
